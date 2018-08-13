@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Magisterka.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+d:\2d shooter\2d shooter\main.cpp(23): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\2d shooter\2d shooter\main.cpp(52): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+d:\2d shooter\2d shooter\main.cpp(364): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\2d shooter\2d shooter\main.cpp(391): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\2d shooter\2d shooter\main.cpp(393): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\2d shooter\2d shooter\main.cpp(395): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\2d shooter\2d shooter\main.cpp(397): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\2d shooter\2d shooter\main.cpp(486): warning C4553: "==": operator nie ma żadnego wpływu; czy miało być "="?
+d:\2d shooter\2d shooter\main.cpp(542): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\2d shooter\2d shooter\main.cpp(548): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\2d shooter\2d shooter\main.cpp(644): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  Trwa kompilowanie...
+  player.cpp
+  Generowanie kodu...
+d:\2d shooter\2d shooter\player.cpp(362): warning C4715: "Player::canShoot”: niewszystkie ścieżki kodu zwracają wartość
+d:\2d shooter\2d shooter\player.cpp(432): warning C4715: "Player::getBullet”: niewszystkie ścieżki kodu zwracają wartość
+  2D Shooter.vcxproj -> D:\2D Shooter\Debug\2D Shooter.exe
